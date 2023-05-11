@@ -42,5 +42,13 @@
     print("Quantidade de carros: " .. carros)
 
     carros = carros * 0.5
-    print(carros)
+    print("Divisão pela multiplicação: " .. carros)
 
+    -- Divisão
+    local gato = 6
+    gato = gato / 2
+    print("A divisão final é: " .. gato)
+
+    local arvore = 97.5 
+    arvore = arvore / 4
+    print ("Divisão com virgula: " .. arvore)
